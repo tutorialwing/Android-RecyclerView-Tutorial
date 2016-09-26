@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/linearVertical"
+        android:orderInCategory="100"
+        android:title="Linear Vertical"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/linearHorizontal"
+        android:orderInCategory="100"
+        android:title="Linear Horizontal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/gridviewVertical"
+        android:orderInCategory="100"
+        android:title="GridView Vertical"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/gridviewHorizontal"
+        android:orderInCategory="100"
+        android:title="GridView Horizontal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/staggeredGridviewVertical"
+        android:orderInCategory="100"
+        android:title="Staggered Gridview Vertical"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/staggeredGridviewHorizontal"
+        android:orderInCategory="100"
+        android:title="Staggered Gridview Horizontal"
+        app:showAsAction="never"/>
+</menu>
